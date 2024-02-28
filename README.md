@@ -1,5 +1,5 @@
 # FurniRecon-CNN
-Repository of the project "FurniRecon" a CNN model optimized with ABC To recognize furniture in hard images
+Repository of the project "FurniRecon"  Neural Network Optimization Convolutional and Support Vector Machines for Recognition of Furniture Images.
 
 This project consists of two documents: the creation paper, which elucidates the academic project developed, and the final Jupyter notebook containing the project itself.
 
